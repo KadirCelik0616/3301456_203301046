@@ -8,21 +8,21 @@
             "name": "kultur_uygulamasi",
             "request": "launch",
             "type": "dart",
-            "program": "lib/screens/main.dart"
+            "program": "lib/main.dart"
         },
         {
             "name": "kultur_uygulamasi (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile",
-            "program": "lib/screens/main.dart"
+            "program": "lib/main.dart"
         },
         {
             "name": "kultur_uygulamasi (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release",
-            "program": "lib/screens/main.dart"
+            "program": "lib/main.dart"
         }
     ]
 }
